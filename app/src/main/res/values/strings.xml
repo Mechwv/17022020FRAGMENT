@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="btn_1">Кнопка 1</string>
+    <string name="btn_2">Кнопка 2</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment1">Hello blank fragment ONE</string>
+    <string name="hello_blank_fragment2">Hello blank fragment TWO</string>
+
+</resources>
